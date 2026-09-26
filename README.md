@@ -1,7 +1,7 @@
 # Calculator Master
 
 **Student Name:** Hans Burton L. Damaso
-**Course and Section:** ITNT415
+**Course and Section:** BIT41
 
 ## Project Description
 A menu-driven Python calculator built using Git branching and GitHub Pull Request workflow. Each arithmetic operation is developed on its own feature branch and merged into main. Features unique Gen Z narratives for user interaction.

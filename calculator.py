@@ -1,4 +1,6 @@
 # Developer: Hans Burton L. Damaso
+# Section: BIT41
+# Professor: Ms. Maria Gloria Del Rosario
 
 def add(a, b):
     """Calculates the total glow up of two numbers."""

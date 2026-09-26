@@ -19,5 +19,4 @@ A menu-driven Python calculator built using Git branching and GitHub Pull Reques
 - Input validation and Error handling (Division-by-zero)
 - Custom Gen Z narrative outputs
 
-## Sample Execution Screenshot
 

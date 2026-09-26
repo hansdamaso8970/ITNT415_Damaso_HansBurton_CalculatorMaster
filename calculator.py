@@ -1,4 +1,4 @@
-# Developer: Hans Burton L. Damaso
+# Developer: Hans Burton L. Damaso BIT41
 
 def add(a, b):
     """Calculates the total glow up of two numbers."""

@@ -8,6 +8,10 @@ def subtract(a, b):
     """Finds the leftover vibe after cancelling."""
     return a - b
 
+def multiply(a, b):
+    """Stacks up the product of two numbers."""
+    return a * b
+
 def main():
     while True:
         print("\n===  Calculator Master: Gen Z version  ===")
@@ -34,6 +38,8 @@ def main():
                 print(f"Periodt! The total glow up is: {add(num1, num2)} ")
             elif choice == "2":
                 print(f"Oof, cancelled. We are left with: {subtract(num1, num2)} ")
+            elif choice == "3":
+                print(f"Big W! Stacked up, it's giving: {multiply(num1, num2)} ")
         else:
             print("Lowkey invalid option. Pick 1-5. ")
 

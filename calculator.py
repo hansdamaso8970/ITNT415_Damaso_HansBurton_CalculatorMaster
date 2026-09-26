@@ -4,9 +4,13 @@ def add(a, b):
     """Calculates the total glow up of two numbers."""
     return a + b
 
+def subtract(a, b):
+    """Finds the leftover vibe after cancelling."""
+    return a - b
+
 def main():
     while True:
-        print("\n===  Calculator Master: Gen Z version ===")
+        print("\n===  Calculator Master: Gen Z version  ===")
         print("1. Glow up (Addition)")
         print("2. Cancel (Subtraction)")
         print("3. Stack 'em (Multiplication)")
@@ -28,6 +32,8 @@ def main():
             
             if choice == "1":
                 print(f"Periodt! The total glow up is: {add(num1, num2)} ")
+            elif choice == "2":
+                print(f"Oof, cancelled. We are left with: {subtract(num1, num2)} ")
         else:
             print("Lowkey invalid option. Pick 1-5. ")
 

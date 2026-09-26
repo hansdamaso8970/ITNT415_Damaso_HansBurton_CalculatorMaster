@@ -1,4 +1,7 @@
-# Developer: Hans Burton L. Damaso BIT41
+# Developer: Hans Burton L. Damaso
+# Section: BIT41
+# Professor: Ms. Maria Gloria Del Rosario
+# Cisco Network Lab Sem 4
 
 def add(a, b):
     """Calculates the total glow up of two numbers."""

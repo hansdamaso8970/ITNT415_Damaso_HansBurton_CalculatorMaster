@@ -44,7 +44,7 @@ def main():
             if choice == "1":
                 print(f"Periodt! The total glow up is: {add(num1, num2)} ")
             elif choice == "2":
-                print(f"Oof, cancelled. We are left with: {subtract(num1, num2)} )
+                print(f"Oof, cancelled. We are left with: {subtract(num1, num2)} ")
             elif choice == "3":
                 print(f"Big W! Stacked up, it's giving: {multiply(num1, num2)} ")
             elif choice == "4":
